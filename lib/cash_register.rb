@@ -8,7 +8,9 @@ class CashRegister
   
   def discount
     @total=20 
-    total 
+
   end
+  
+  total 
   
 end
