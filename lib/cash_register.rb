@@ -8,7 +8,6 @@ class CashRegister
   end 
   
   
-  
-  total 
+
   
 end
